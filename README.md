@@ -1,5 +1,5 @@
 # kaggle
-kaggle contains the collection of notebooks used for my various Kaggle competition submissions. Data and models are not included for space reasons but all competition folders contain a data.sh script in their data folder that can be used to download the data provided the kaggle API is installed. All notebooks should flow linearly and running each block should create and train a model and finally run that model against the test dataset. 
+kaggle contains the collection of notebooks used for my various Kaggle competition submissions. Data and models are not included for space reasons but all competition folders contain a data.sh script in their data folder that can be used to download the data provided the kaggle API is installed. All notebooks should flow linearly and running through the entire notebook should create and train a model and finally run that model against the test dataset. 
 
 ## Competitions
 - [Digit-Recognizer](https://www.kaggle.com/c/digit-recognizer/overview) (best score 0.99557)
